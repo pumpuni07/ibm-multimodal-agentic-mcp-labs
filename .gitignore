@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+module4-mcp/California-Culinary-Map.txt
+module4-mcp/structured-restaurant-data.json
+module4-mcp/augmented-user-review.json
+*.json.bak
+structured_restaurant_data.json
+.env
+.DS_Store
