@@ -9,11 +9,14 @@ restaurant recommendation application ("Connoisseur").
 
 | Module | Lab | File | Status |
 |--------|-----|------|--------|
+| M1L1 | Structure Unstructured Restaurant Data with an LLM | `module1-data-pipelines/structure_restaurant_data.py` | ✅ Tests passing (M1 suite 11/11) |
+| M1L2 | Process Multimodal Data with LLMs (vision captioning) | `module1-data-pipelines/process_multimodal_reviews.py` | ✅ Tests passing (M1 suite 11/11) |
 | M1L3 | Command-Line Data Management UI for Restaurant Data | `module1-data-pipelines/restaurant_data_management.py` | ✅ Unit tests passing (2/2) |
 | M4L1 | Build an MCP Server | `module4-mcp/server.py` | ✅ Verified via `test.py` |
 | M4L2 | Build an MCP Client | `module4-mcp/client.py` | ✅ All 3 demos + discovery verified |
 | M4L3 | Build a Full MCP Application (Gradio host) | `module4-mcp/app.py` | ✅ UI builds; ReAct loop wired |
-| M1L1–M1L2, M2L1–M2L3, M3L1–M3L3 | Data structuring, multimodal RAG, multi-agent labs | — | 🔜 To be added |
+| M3L1 | Design Specialized Agents for a Recommendation System | `module3-multi-agent/design_agents.py` | ✅ Tests passing (8/8) |
+| M2L1–M2L3, M3L2–M3L3 | Multimodal vector indexing, retrieval, fusion; multi-agent workflow & chatbot | — | 🔜 To be added |
 
 ---
 
